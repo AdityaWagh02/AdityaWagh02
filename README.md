@@ -1,15 +1,104 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building software development projects using Java, Python, SQL, and exploring SAP ABAP & RAP concepts.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly Java, backend, SAP ABAP, or database-driven projects where learning and clean code matter.<br><br>🤝 I’m looking for help with<br>Improving system design understanding, SAP RAP best practices, and real-world project exposure.<br><br>🌱 I’m currently learning<br>SAP ABAP, ABAP Cloud, RESTful Application Programming Model (RAP), and strengthening DSA fundamentals.<br><br>💬 Ask me about<br>Java basics, SQL queries, ABAP fundamentals, internal tables, or getting started with SAP as a student.<br><br>⚡ Fun fact<br>I enjoy turning complex concepts into simple explanations while learning them myself 😄
+# Hi, I'm Aditya Wagh 👋
 
+## About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaWagh02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdityaWagh02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWagh02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 B.Tech Computer Science Engineering (Cyber Security) Graduate (2026)
+
+💻 Passionate about Software Development, Automation Testing, and Backend Technologies
+
+🚀 Currently building Automation Testing Frameworks using Java, Selenium WebDriver, TestNG, REST Assured, Maven, and GitHub Actions
+
+🌱 Continuously learning Software Testing, API Automation, CI/CD, and Data Structures & Algorithms
+
+📫 Reach me:
+
+* LinkedIn: [www.linkedin.com/in/aditya-wagh-853666266](http://www.linkedin.com/in/aditya-wagh-853666266)
+* Email: [aditya.wagh0211@gmail.com](mailto:aditya.wagh0211@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdityaWagh02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Technical Skills
+
+### Programming Languages
+
+* Java
+* Python
+* SQL
+
+### Automation Testing
+
+* Selenium WebDriver
+* REST Assured
+* TestNG
+* Maven
+* Postman
+
+### Testing Concepts
+
+* Manual Testing
+* Automation Testing
+* API Testing
+* Regression Testing
+* Smoke Testing
+* Functional Testing
+* STLC
+* SDLC
+
+### Databases
+
+* MySQL
+* SQLite
+* MongoDB
+
+### Tools
+
+* Git
+* GitHub
+* GitHub Actions
+* Extent Reports
+* IntelliJ IDEA
+* VS Code
+
+---
+
+## Featured Projects
+
+### OrangeHRM Automation Testing Framework
+
+* Java, Selenium WebDriver, TestNG, Maven
+* POM Architecture
+* Data Driven Testing
+* Cross Browser Testing
+* GitHub Actions CI/CD
+
+### REST Assured API Automation Framework
+
+* Java, REST Assured, TestNG
+* API Validation
+* JSON Schema Validation
+* Extent Reports
+* CI/CD Integration
+
+### Smart Surveillance System
+
+* Python, OpenCV, YOLOv8, MySQL
+* Real-Time Criminal & Missing Person Detection
+* Automated Alert Generation
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaWagh02\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWagh02\&layout=compact)
+
+---
+
+### Career Interests
+
+* Software Development
+* Automation Testing
+* QA Automation
+* Backend Development
+* Java Development
