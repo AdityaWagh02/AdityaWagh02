@@ -2,14 +2,14 @@
 <h3 align="center">Java Developer | Backend Engineering & QA Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;QA+%2F+Automation+Test+Engineer;Building+with+Spring+Boot+%26+Selenium;Final-Year+CS+(Cyber+Security)+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;QA+%2F+Automation+Test+Engineer;Building+with+Spring+Boot+%26+Selenium;B.Tech+CSE+(Cyber+Security)+Graduate" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🎯 About Me
 
-- 🎓 B.Tech Computer Science Engineering (Cyber Security) — G.H. Raisoni College of Engineering and Management, Pune (2022–2026), **CGPA: 8.43/10**
+- 🎓 B.Tech Computer Science Engineering (Cyber Security) — G.H. Raisoni College of Engineering and Management, Pune (2022–2026), **CGPA: 8.4/10**
 - 💻 Passionate about **Java Backend Development**, **Automation Testing**, and building full-stack & AI-powered applications
 - 🚀 Currently building automation frameworks with **Selenium WebDriver, TestNG, REST Assured, Maven & GitHub Actions**, and backend apps with **Spring Boot, Spring Security & React**
 - 🔐 Hands-on experience in **VAPT (Vulnerability Assessment & Penetration Testing)** from my Cyber Security internship at GlobalTech Infinity Systems and Partners
@@ -111,4 +111,4 @@
   <a href="https://leetcode.com/u/omwagh0211/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
-<p align="center"><i>Open to Java Developer, Backend Developer, and QA/Automation Testing roles — available full-time from 2026.</i></p>
+<p align="center"><i>Open to Java Developer, Backend Developer, and QA/Automation Testing roles — available immediately.</i></p>
