@@ -32,15 +32,12 @@ Java Backend Developer • QA Automation Engineer • Software Developer
 
 🏫 G.H. Raisoni College of Engineering and Management, Pune
 
-📊 **CGPA:** 8.43 / 10
+📊 **CGPA:** 8.4 / 10
 
 💻 Passionate about
 
-- Java Backend Development
-- Automation Testing
-- REST API Development
-- Software Engineering
 - Full Stack Development
+- Android Development
 
 🚀 Currently building
 
@@ -63,12 +60,6 @@ Java Backend Developer • QA Automation Engineer • Software Developer
 - 110+ LeetCode Problems Solved
 - SAP Learning Certified
 - Credly Verified Badge
-
-🔐 Cyber Security Intern with hands-on experience in
-
-- Vulnerability Assessment
-- Penetration Testing (VAPT)
-- Security Testing
 
 ---
 
@@ -162,7 +153,9 @@ Java Backend Developer • QA Automation Engineer • Software Developer
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
+- Core Java
 - DBMS
+- Hybrid Mobile App Development 
 - Operating Systems
 - Computer Networks
 - SDLC
@@ -237,7 +230,6 @@ Java Backend Developer • QA Automation Engineer • Software Developer
 - Java Developer
 - Backend Developer
 - Software Engineer
-- QA Automation Engineer
 - SDET
 - Full Stack Developer
 - Graduate Engineer Trainee
@@ -255,8 +247,6 @@ Java Backend Developer • QA Automation Engineer • Software Developer
 ✅ Java Developer
 
 ✅ Backend Developer
-
-✅ QA Automation Engineer
 
 ✅ Software Engineer
 
