@@ -197,26 +197,6 @@ Java Backend Developer • QA Automation Engineer • Software Developer
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaWagh02&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaWagh02&theme=tokyonight&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
 # 📜 Certifications
 
 - 🏅 SAP Learning Certification
